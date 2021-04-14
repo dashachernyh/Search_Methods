@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+c:\users\dasha\desktop\proga\search_methods\methods.h(114): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+c:\users\dasha\desktop\proga\search_methods\methods.h(119): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+c:\users\dasha\desktop\proga\search_methods\methods.h(159): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+c:\users\dasha\desktop\proga\search_methods\methods.h(164): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+c:\users\dasha\desktop\proga\search_methods\methods.h(135): warning C4101: M: неиспользованная локальная переменная
+c:\users\dasha\desktop\proga\search_methods\methods.h(211): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+c:\users\dasha\desktop\proga\search_methods\methods.h(216): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+c:\users\dasha\desktop\proga\search_methods\myform.h(621): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  MyForm.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  MyForm.obj : юсэрЁєцхэ ьюфєы№ MSIL; фы  MSIL яюёыхфютрЄхы№эр  ъюьяюэютър юЄъы■ўхэр; т√яюыэ хЄё  яюыэр  ъюьяюэютър
+  Graph.vcxproj -> C:\Users\Dasha\Desktop\proga\Search_Methods\x64\Debug\Search_methods.exe
